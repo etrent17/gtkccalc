@@ -67,7 +67,7 @@ gcc src/main.c src/calculator.c src/gtk_interface.c -o calculator -Iinclude `pkg
 
 ## Usage
 
-*(Instructions on how to run the compiled executable would go here)*
+TODO
 
 ## Contributing
 
@@ -75,5 +75,5 @@ gcc src/main.c src/calculator.c src/gtk_interface.c -o calculator -Iinclude `pkg
 
 ## License
 
-*(Specify the license under which the project is distributed)*
+TODO
 ```
