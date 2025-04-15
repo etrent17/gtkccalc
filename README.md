@@ -1,4 +1,3 @@
-```markdown
 # Basic Calculator in C with GTK
 
 This is a simple calculator application written in C using the GTK+ library for the graphical user interface. This project emphasizes **modularity** and a clear **directory structure** for maintainability and scalability, even in a basic program.
