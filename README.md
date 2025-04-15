@@ -8,7 +8,7 @@ This is a simple calculator application written in C using the GTK+ library for 
 * Clear and intuitive graphical user interface.
 * Demonstrates good coding practices through modular design.
 
-## Directory Structure
+## Directory Structure TODO
 
 The project follows a structured directory organization to separate concerns and improve code management:
 
