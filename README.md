@@ -71,9 +71,10 @@ TODO
 
 ## Contributing
 
-*(Information on how others can contribute to the project would go here)*
+Send a PR or make a fork as you please.
 
 ## License
 
-TODO
+APACHE 2.0
+
 ```
