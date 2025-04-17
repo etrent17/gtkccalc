@@ -2,6 +2,12 @@
 
 This is a simple calculator application written in C using the GTK+ library for the graphical user interface. This project emphasizes **modularity** and a clear **directory structure** for maintainability and scalability.
 
+## Action Plan
+* Set proper directory structure.
+* Actually write the code - button helpers, then everything else.
+* Make sure to catch any errors and handle appropriately. 
+* Create proper testing procedures.
+
 ## Features
 
 * Basic arithmetic operations: addition, subtraction, multiplication, and division.
