@@ -77,4 +77,5 @@ Send a PR or make a fork as you please.
 
 APACHE 2.0
 
+(C) Elijah Trent 2025
 ```
