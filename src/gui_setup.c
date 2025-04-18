@@ -1,12 +1,12 @@
-#include "gui_setup.h"
-#include "calc_logic.h"
-#include "button_digit.h"
-#include "button_add.h"
-#include "button_subtract.h"
-#include "button_multiply.h"
-#include "button_divide.h"
-#include "button_equals.h"
-#include "button_clear.h"
+#include "../include/gui_setup.h"
+#include "../include/calc_logic.h"
+#include "../include/button_digit.h"
+#include "../include/button_add.h"
+#include "../include/button_subtract.h"
+#include "../include/button_multiply.h"
+#include "../include/button_divide.h"
+#include "../include/button_equals.h"
+#include "../include/button_clear.h"
 
 // Set up the GUI components
 void setup_gui(GtkWidget *window) {

@@ -1,5 +1,5 @@
-#include "button_digit.h"
-#include "calc_logic.h"
+#include "../include/button_digit.h"
+#include "../include/calc_logic.h"
 #include <string.h>
 
 // Create digit button

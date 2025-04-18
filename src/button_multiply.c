@@ -1,5 +1,5 @@
-#include "button_multiply.h"
-#include "calc_logic.h"
+#include "../include/button_multiply.h"
+#include "../include/calc_logic.h"
 #include <stdlib.h>
 #include <string.h>
 

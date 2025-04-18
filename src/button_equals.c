@@ -1,5 +1,5 @@
-#include "button_equals.h"
-#include "calc_logic.h"
+#include "../include/button_equals.h"
+#include "../include/calc_logic.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
