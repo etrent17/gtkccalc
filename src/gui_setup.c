@@ -20,7 +20,7 @@ void setup_gui(GtkWidget *window) {
     gtk_container_add(GTK_CONTAINER(window), grid);
     
     // Create result display
-    result_label = gtk_label_new("0");
+    char result_label = gtk_label_new("0");
     gtk_widget_set_halign(result_label, GTK_ALIGN_END);
     gtk_label_set_selectable(GTK_LABEL(result_label), TRUE);
     gtk_widget_set_hexpand(result_label, TRUE);

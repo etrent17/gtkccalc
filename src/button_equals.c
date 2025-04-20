@@ -21,6 +21,8 @@ void on_equals_clicked(GtkWidget *widget, gpointer data) {
     double result = 0;
     
     // Handle division by zero
+    GtkWidget *result_label;
+    
     if (operation == 4 && second_operand == 0) {
         gtk_label_set_text(GTK_LABEL(result_label), "Error: Div by 0");
         return;
