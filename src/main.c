@@ -1,6 +1,6 @@
 #include <gtk/gtk.h>
-#include "calc_logic.h"
-#include "gui_setup.h"
+#include "../include/calc_logic.h"
+#include "../include/gui_setup.h"
 
 int main(int argc, char *argv[]) {
     GtkWidget *window;
